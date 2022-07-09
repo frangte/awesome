@@ -10,6 +10,11 @@
 
 - ...
 
+### Icon
+
+- [heroicons](https://heroicons.com/): Free
+
+
 ### Golang
 
 - [pocketbase](https://github.com/pocketbase/pocketbase): Onefile Database 
