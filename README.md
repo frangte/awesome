@@ -13,3 +13,10 @@
 ### Golang
 
 - [pocketbase](https://github.com/pocketbase/pocketbase): Onefile Database 
+
+
+
+## Reads
+### UI
+
+- [Building color palette](https://www.refactoringui.com/previews/building-your-color-palette)
