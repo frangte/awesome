@@ -13,7 +13,7 @@
 ### Icon
 
 - [heroicons](https://heroicons.com/): Free
-
+- [icones](https://icones.netlify.app/): Icon of Antfu
 
 ### Golang
 
