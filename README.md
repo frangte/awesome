@@ -6,6 +6,7 @@
 - [gltf.report](https://gltf.report/): GLTF viewer
 - [threejsfundamentals](https://r105.threejsfundamentals.org/): Resource for learning and practice
 - [camera-controls](https://github.com/yomotsu/camera-controls)
+- [cool threejs](https://github.com/marcofugaro/threejs-modern-app)
 
 ### Vue
 
