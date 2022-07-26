@@ -16,6 +16,7 @@
 
 - [heroicons](https://heroicons.com/): Free
 - [icones](https://icones.netlify.app/): Icon of Antfu
+- [Crypto icons](https://github.com/monzanifabio/cryptofont)
 
 ### Golang
 
